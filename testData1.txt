@@ -1,0 +1,4 @@
+dạng (a*b*c*)+
+
+chấp nhận : bccc, ccc, a, abbbc, aabbcc
+không chấp nhận: aba, abbbccca, acb
